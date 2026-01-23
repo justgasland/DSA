@@ -13,4 +13,4 @@ class Solution:
             if add == target:
                 return [left+1 , i +1]
         return [-1]
-            
+                
